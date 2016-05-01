@@ -55,8 +55,8 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?php echo Auth::$userinfo->firstname.' '.Auth::$userinfo->lastname; ?> <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="<?php echo SITE_URL;?>/admin/index.php/profile">Profile</a></li>
-                    <li><a href="<?php echo SITE_URL;?>/admin/index.php/login/logout">Log Out</a></li>
+                    <li><a href="<?php echo SITE_URL;?>/index.php/profile">Profile</a></li>
+                    <li><a href="<?php echo SITE_URL;?>/index.php/login/logout">Log Out</a></li>
                   </ul>
                 </li>
               </ul>
