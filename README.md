@@ -26,6 +26,6 @@ Place all the files in their respective directory.
 
 ----------------------
 
-NOTE: This admin panel skin is to be used with the TPL version of phpVMS, I will be updating it to the PHP version shortly, so stay tuned.
+NOTE: This admin panel skin is to be used with the PHP version of phpVMS (Simpilot's 5.5.x), If you are looking for the TPL version of this skin, please look at my master branch
 
 ----------------------
