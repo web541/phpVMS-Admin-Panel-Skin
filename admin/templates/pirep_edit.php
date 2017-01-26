@@ -148,7 +148,7 @@ foreach($pirepfields as $field)
 </tr>
 <tr>		
 	<td style="font-weight: bold;">Gross Revenue:</td>
-	<td><?php echo FinanceData::FormatMoney($pirep->revenue); ?>
+	<td><?php echo FinanceData::FormatMoney($pirep->gross); ?>
 		<p>Change the load and price variables above to adjust this value.</p></td>
 </tr>
 <tr>	
